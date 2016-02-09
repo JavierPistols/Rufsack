@@ -49,7 +49,7 @@ chromosom GA::kreuzung(vector<chromosom>& r_cromBevolke2, chromosom& vatter, chr
 	wahrscheinlichkeit5 = zufallNummer(0.0, 1.0);
 	if (wahrscheinlichkeit5 <= .75)
 	{
- 
+		
 	}
 
 
